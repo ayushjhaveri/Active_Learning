@@ -1,6 +1,5 @@
 # Active_Learning
-Contains implementations of active learning without the use of active learning libraries for the assignment of the course Machine Learning
-
+Contains implementations of active learning without the use of active learning libraries.
 1.Uncertainty Sampling
 - Margin (Stream-based and Pool-based)
 - Entropy (Stream-based and Pool-based)
